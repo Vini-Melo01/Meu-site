@@ -1,0 +1,26 @@
+#titulo{
+    margin-bottom: 300px;
+}
+#index{
+    z-index: 1;
+}
+
+.tm-social{
+    width: 150px;
+    height: 150px;
+}
+
+.center{
+    text-align: center;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+#sociais{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
